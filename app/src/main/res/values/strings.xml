@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="newNote">新建</string>
+    <string name="action_settings">新建笔记</string>
+    <string name="title_activity_add">新建笔记</string>
+    <string name="title_ed">标题</string>
+    <string name="content_ed">内容</string>
+    <string name="saveBtn">保存</string>
+    <string name="title_activity_in">详情</string>
+    <string name="upgradeBtn">修改</string>
+    
+</resources>
